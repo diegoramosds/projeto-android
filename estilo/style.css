@@ -15,9 +15,9 @@ font-weight: normal;
   --cor0:#c5ebd6;
   --cor1: #83e1ad;
   --cor2:#3ddc84;
-  --cor3:#2fa866;
+  --cor3:#2fa865ce;
   --cor4:#1a5c37;
-  --cor5:#063d1e;
+  --cor5:#053319;
 
   --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
   --fonte-destaque:'Bebas Neue', cursive ;
@@ -39,8 +39,8 @@ body{
         background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
         color: white;
         text-align: center;
-         padding:130px;
-        padding-top: 70px;
+         padding:60px;
+        padding-top: 60px;
         margin:-48px ; 
         margin-right: -8px; 
         box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.356); 
@@ -53,6 +53,7 @@ body{
       font-family: var(--fonte-destaque) ;
       font-size: 3em;
       text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.562) ;
+    
 
       
     }
@@ -60,14 +61,15 @@ body{
      
       color: white;
     text-align: center;
-      padding: 15px;;
+   
+     
       margin-top: auto;
       margin-bottom: 20px;
       font-family: var(--fonte-padrao);
       font-size: 1.2em;
       text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.308) ;
-      padding-right: 10px;
-      padding-left: 10px;
+   
+
     
     }
     
