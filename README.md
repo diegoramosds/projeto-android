@@ -9,20 +9,21 @@ https://github.com/diegoramosds/projeto-android/assets/140274064/69402e6c-e3cf-4
 
 
 ## 🚀 Tecnologias utilizadas: <br>
-   ✔️ Html <br>
-   ✔️ css <br>
-   ✔️ JavaScript
+   - ✔️ Html <br>
+   - ✔️ css <br>
+   - ✔️ JavaScript
 
 
 ## ✨ Destaques
-   📱 **Layout Responsivo** 
-    Adaptável a diferentes dispositivos e tamanhos de tela. 
+**📱 Layout Responsivo** -
+  Adaptável a diferentes dispositivos e tamanhos de tela. 
     
-   🎨 **Efeitos Visuais** 
+   **🎨 Efeitos Visuais** -
    Animações e transições para uma experiência mais dinâmica.
    
-   🤖 **Design Inspirado no Android** 
+   **🤖 Design Inspirado no Android** - 
    Interface moderna baseada no estilo do Android.
+
 
 
 ## 🚀 Como rodar o projeto
