@@ -9,9 +9,9 @@ https://github.com/diegoramosds/projeto-android/assets/140274064/69402e6c-e3cf-4
 
 
 ## 🚀 Tecnologias utilizadas: <br>
-  - Html <br>
-  - css <br>
-  - JavaScript
+  - ✔️ Html <br>
+  - ✔️ css <br>
+  - ✔️ JavaScript
 
 
 ## ✨ Destaques
@@ -21,6 +21,8 @@ https://github.com/diegoramosds/projeto-android/assets/140274064/69402e6c-e3cf-4
 
 
 ## 🚀 Como rodar o projeto
+
+
 
 1️⃣ **Clone o repositório**:  
 ```bash
